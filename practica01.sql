@@ -83,4 +83,3 @@ SELECT e.nombre, e.salario
 		FROM curso.empleados e
         GROUP BY e.dnumero)
         ;
-        
